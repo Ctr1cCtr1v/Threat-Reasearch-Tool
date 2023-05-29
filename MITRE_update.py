@@ -24,11 +24,11 @@ for technique in attack.enterprise.techniques:
     technique_data.append(technique_entry)
 
 # Save actor data to a separate file
-actor_file_path = "Threat-Reasearch-Tool/actor_data.json"
+actor_file_path = "actor_data.json"
 with open(actor_file_path, "w") as actor_file:
     json.dump(actor_data, actor_file, indent=4)
 
 # Save technique data to a separate file
-technique_file_path = "Threat-Reasearch-Tool/technique_data.json"
+technique_file_path = "technique_data.json"
 with open(technique_file_path, "w") as technique_file:
     json.dump(technique_data, technique_file, indent=4)

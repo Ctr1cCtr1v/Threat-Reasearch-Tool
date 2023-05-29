@@ -1,4 +1,3 @@
-pyattck
-re
-openai
-transformers
+pyattck~=7.1.2
+openai~=0.27.2
+transformers~=4.29.2

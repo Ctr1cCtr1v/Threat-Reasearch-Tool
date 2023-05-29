@@ -1,5 +1,5 @@
 """
-Pip install requirements.txt for packages/dependencies needed ie transformers, re, openai and pyattck.
+Create venv then pip install -r requirements.txt for packages/dependencies needed ie transformers, openai and pyattck.
 """
 import json
 from pyattck import Attck

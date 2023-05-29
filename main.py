@@ -1,5 +1,5 @@
 """
-Pip install requirements.txt for packages/dependencies needed ie transformers, re, openai and pyattck.
+Create venv then pip install -r requirements.txt for packages/dependencies needed ie transformers, openai and pyattck.
 Insert openai api key before running main program. 
 Run the MITRE_update.py file to generate/update dataset with current MITRE ATTCK framework.
 """

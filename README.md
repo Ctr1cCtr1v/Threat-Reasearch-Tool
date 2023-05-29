@@ -20,5 +20,4 @@ Pip install any packages/dependencies needed ie pyattck.
 
 ## **Future Goals**
 Enable the program to auto scrape websites and blogposts to gather intel from.
-Setup in virtual environment, ec2, docker, or other solution to updating filepaths etc. across different systems and OS.
 Use GPT-4 when available or other llm for more robust and comprehensive summary generation as well as TTP analysis.

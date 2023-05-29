@@ -8,7 +8,7 @@ from transformers import GPT2Tokenizer
 
 openai.api_key = "InsertAPIKey"
 
-file_path = "Threat-Reasearch-Tool/test.txt"
+file_path = "test.txt"
 
 
 def load_reference_data(file_path):
@@ -18,10 +18,10 @@ def load_reference_data(file_path):
 
 
 # SET THE reference_data_file VARIABLE
-technique_reference_data_file = "Threat-Reasearch-Tool/technique_data.json"
+technique_reference_data_file = "technique_data.json"
 technique_data = load_reference_data(technique_reference_data_file)
 
-actor_reference_data_file = "Threat-Reasearch-Tool/actor_data.json"
+actor_reference_data_file = "actor_data.json"
 actor_data = load_reference_data(actor_reference_data_file)
 
 
@@ -175,7 +175,7 @@ def extract_mitre_techniques(file_path, validated_groups, summary):
     }
 
     # Output JSON to a file
-    output_file_path = "Threat-Reasearch-Tool/output.json"
+    output_file_path = "output.json"
     with open(output_file_path, "w") as output_file:
         json.dump(data, output_file, indent=4)
 

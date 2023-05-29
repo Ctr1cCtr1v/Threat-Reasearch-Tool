@@ -1,0 +1,602 @@
+[
+    {
+        "id": "G0016",
+        "name": "APT29"
+    },
+    {
+        "id": "G0121",
+        "name": "Sidewinder"
+    },
+    {
+        "id": "G0068",
+        "name": "PLATINUM"
+    },
+    {
+        "id": "G0010",
+        "name": "Turla"
+    },
+    {
+        "id": "G0098",
+        "name": "BlackTech"
+    },
+    {
+        "id": "G0040",
+        "name": "Patchwork"
+    },
+    {
+        "id": "G0106",
+        "name": "Rocke"
+    },
+    {
+        "id": "G0094",
+        "name": "Kimsuky"
+    },
+    {
+        "id": "G0022",
+        "name": "APT3"
+    },
+    {
+        "id": "G0060",
+        "name": "BRONZE BUTLER"
+    },
+    {
+        "id": "G1002",
+        "name": "BITTER"
+    },
+    {
+        "id": "G0065",
+        "name": "Leviathan"
+    },
+    {
+        "id": "G0114",
+        "name": "Chimera"
+    },
+    {
+        "id": "G0006",
+        "name": "APT1"
+    },
+    {
+        "id": "G0074",
+        "name": "Dragonfly 2.0"
+    },
+    {
+        "id": "G0070",
+        "name": "Dark Caracal"
+    },
+    {
+        "id": "G0062",
+        "name": "TA459"
+    },
+    {
+        "id": "G0140",
+        "name": "LazyScripter"
+    },
+    {
+        "id": "G0107",
+        "name": "Whitefly"
+    },
+    {
+        "id": "G1013",
+        "name": "Metador"
+    },
+    {
+        "id": "G0021",
+        "name": "Molerats"
+    },
+    {
+        "id": "G0092",
+        "name": "TA505"
+    },
+    {
+        "id": "G0035",
+        "name": "Dragonfly"
+    },
+    {
+        "id": "G0096",
+        "name": "APT41"
+    },
+    {
+        "id": "G0049",
+        "name": "OilRig"
+    },
+    {
+        "id": "G0061",
+        "name": "FIN8"
+    },
+    {
+        "id": "G0131",
+        "name": "Tonto Team"
+    },
+    {
+        "id": "G0027",
+        "name": "Threat Group-3390"
+    },
+    {
+        "id": "G0101",
+        "name": "Frankenstein"
+    },
+    {
+        "id": "G0032",
+        "name": "Lazarus Group"
+    },
+    {
+        "id": "G0125",
+        "name": "HAFNIUM"
+    },
+    {
+        "id": "G0112",
+        "name": "Windshift"
+    },
+    {
+        "id": "G1001",
+        "name": "HEXANE"
+    },
+    {
+        "id": "G0120",
+        "name": "Evilnum"
+    },
+    {
+        "id": "G0087",
+        "name": "APT39"
+    },
+    {
+        "id": "G0102",
+        "name": "Wizard Spider"
+    },
+    {
+        "id": "G0072",
+        "name": "Honeybee"
+    },
+    {
+        "id": "G1006",
+        "name": "Earth Lusca"
+    },
+    {
+        "id": "G1014",
+        "name": "LuminousMoth"
+    },
+    {
+        "id": "G0059",
+        "name": "Magic Hound"
+    },
+    {
+        "id": "G0047",
+        "name": "Gamaredon Group"
+    },
+    {
+        "id": "G0004",
+        "name": "Ke3chang"
+    },
+    {
+        "id": "G0051",
+        "name": "FIN10"
+    },
+    {
+        "id": "G0046",
+        "name": "FIN7"
+    },
+    {
+        "id": "G0007",
+        "name": "APT28"
+    },
+    {
+        "id": "G0043",
+        "name": "Group5"
+    },
+    {
+        "id": "G0081",
+        "name": "Tropic Trooper"
+    },
+    {
+        "id": "G0038",
+        "name": "Stealth Falcon"
+    },
+    {
+        "id": "G0001",
+        "name": "Axiom"
+    },
+    {
+        "id": "G0077",
+        "name": "Leafminer"
+    },
+    {
+        "id": "G0099",
+        "name": "APT-C-36"
+    },
+    {
+        "id": "G0012",
+        "name": "Darkhotel"
+    },
+    {
+        "id": "G0045",
+        "name": "menuPass"
+    },
+    {
+        "id": "G0117",
+        "name": "Fox Kitten"
+    },
+    {
+        "id": "G0009",
+        "name": "Deep Panda"
+    },
+    {
+        "id": "G0132",
+        "name": "CostaRicto"
+    },
+    {
+        "id": "G0082",
+        "name": "APT38"
+    },
+    {
+        "id": "G0037",
+        "name": "FIN6"
+    },
+    {
+        "id": "G0128",
+        "name": "ZIRCONIUM"
+    },
+    {
+        "id": "G0069",
+        "name": "MuddyWater"
+    },
+    {
+        "id": "G0084",
+        "name": "Gallmaker"
+    },
+    {
+        "id": "G1004",
+        "name": "LAPSUS$"
+    },
+    {
+        "id": "G0129",
+        "name": "Mustang Panda"
+    },
+    {
+        "id": "G0118",
+        "name": "UNC2452"
+    },
+    {
+        "id": "G0103",
+        "name": "Mofang"
+    },
+    {
+        "id": "G0143",
+        "name": "Aquatic Panda"
+    },
+    {
+        "id": "G0122",
+        "name": "Silent Librarian"
+    },
+    {
+        "id": "G0079",
+        "name": "DarkHydrus"
+    },
+    {
+        "id": "G0105",
+        "name": "DarkVishnya"
+    },
+    {
+        "id": "G0093",
+        "name": "GALLIUM"
+    },
+    {
+        "id": "G0124",
+        "name": "Windigo"
+    },
+    {
+        "id": "G0050",
+        "name": "APT32"
+    },
+    {
+        "id": "G0073",
+        "name": "APT19"
+    },
+    {
+        "id": "G0108",
+        "name": "Blue Mockingbird"
+    },
+    {
+        "id": "G0139",
+        "name": "TeamTNT"
+    },
+    {
+        "id": "G0067",
+        "name": "APT37"
+    },
+    {
+        "id": "G0085",
+        "name": "FIN4"
+    },
+    {
+        "id": "G0100",
+        "name": "Inception"
+    },
+    {
+        "id": "G0126",
+        "name": "Higaisa"
+    },
+    {
+        "id": "G0056",
+        "name": "PROMETHIUM"
+    },
+    {
+        "id": "G1008",
+        "name": "SideCopy"
+    },
+    {
+        "id": "G0135",
+        "name": "BackdoorDiplomacy"
+    },
+    {
+        "id": "G0078",
+        "name": "Gorgon Group"
+    },
+    {
+        "id": "G0091",
+        "name": "Silence"
+    },
+    {
+        "id": "G0080",
+        "name": "Cobalt Group"
+    },
+    {
+        "id": "G1003",
+        "name": "Ember Bear"
+    },
+    {
+        "id": "G0071",
+        "name": "Orangeworm"
+    },
+    {
+        "id": "G0034",
+        "name": "Sandworm Team"
+    },
+    {
+        "id": "G0116",
+        "name": "Operation Wocao"
+    },
+    {
+        "id": "G0044",
+        "name": "Winnti Group"
+    },
+    {
+        "id": "G0053",
+        "name": "FIN5"
+    },
+    {
+        "id": "G0088",
+        "name": "TEMP.Veles"
+    },
+    {
+        "id": "G0052",
+        "name": "CopyKittens"
+    },
+    {
+        "id": "G0066",
+        "name": "Elderwood"
+    },
+    {
+        "id": "G0064",
+        "name": "APT33"
+    },
+    {
+        "id": "G0026",
+        "name": "APT18"
+    },
+    {
+        "id": "G0134",
+        "name": "Transparent Tribe"
+    },
+    {
+        "id": "G0003",
+        "name": "Cleaver"
+    },
+    {
+        "id": "G0020",
+        "name": "Equation"
+    },
+    {
+        "id": "G0083",
+        "name": "SilverTerrier"
+    },
+    {
+        "id": "G0115",
+        "name": "GOLD SOUTHFIELD"
+    },
+    {
+        "id": "G0019",
+        "name": "Naikon"
+    },
+    {
+        "id": "G0005",
+        "name": "APT12"
+    },
+    {
+        "id": "G0127",
+        "name": "TA551"
+    },
+    {
+        "id": "G0130",
+        "name": "Ajax Security Team"
+    },
+    {
+        "id": "G0090",
+        "name": "WIRTE"
+    },
+    {
+        "id": "G0119",
+        "name": "Indrik Spider"
+    },
+    {
+        "id": "G0086",
+        "name": "Stolen Pencil"
+    },
+    {
+        "id": "G0142",
+        "name": "Confucius"
+    },
+    {
+        "id": "G1011",
+        "name": "EXOTIC LILY"
+    },
+    {
+        "id": "G0039",
+        "name": "Suckfly"
+    },
+    {
+        "id": "G1007",
+        "name": "Aoqin Dragon"
+    },
+    {
+        "id": "G0014",
+        "name": "Night Dragon"
+    },
+    {
+        "id": "G0123",
+        "name": "Volatile Cedar"
+    },
+    {
+        "id": "G0075",
+        "name": "Rancor"
+    },
+    {
+        "id": "G0138",
+        "name": "Andariel"
+    },
+    {
+        "id": "G0031",
+        "name": "Dust Storm"
+    },
+    {
+        "id": "G0104",
+        "name": "Sharpshooter"
+    },
+    {
+        "id": "G1009",
+        "name": "Moses Staff"
+    },
+    {
+        "id": "G0095",
+        "name": "Machete"
+    },
+    {
+        "id": "G0054",
+        "name": "Sowbug"
+    },
+    {
+        "id": "G0041",
+        "name": "Strider"
+    },
+    {
+        "id": "G0133",
+        "name": "Nomadic Octopus"
+    },
+    {
+        "id": "G0024",
+        "name": "Putter Panda"
+    },
+    {
+        "id": "G0141",
+        "name": "Gelsemium"
+    },
+    {
+        "id": "G0013",
+        "name": "APT30"
+    },
+    {
+        "id": "G0076",
+        "name": "Thrip"
+    },
+    {
+        "id": "G0008",
+        "name": "Carbanak"
+    },
+    {
+        "id": "G0048",
+        "name": "RTM"
+    },
+    {
+        "id": "G1005",
+        "name": "POLONIUM"
+    },
+    {
+        "id": "G0018",
+        "name": "admin@338"
+    },
+    {
+        "id": "G0089",
+        "name": "The White Company"
+    },
+    {
+        "id": "G0033",
+        "name": "Poseidon Group"
+    },
+    {
+        "id": "G0011",
+        "name": "PittyTiger"
+    },
+    {
+        "id": "G0002",
+        "name": "Moafee"
+    },
+    {
+        "id": "G0136",
+        "name": "IndigoZebra"
+    },
+    {
+        "id": "G0137",
+        "name": "Ferocious Kitten"
+    },
+    {
+        "id": "G0017",
+        "name": "DragonOK"
+    },
+    {
+        "id": "G0029",
+        "name": "Scarlet Mimic"
+    },
+    {
+        "id": "G0028",
+        "name": "Threat Group-1314"
+    },
+    {
+        "id": "G0023",
+        "name": "APT16"
+    },
+    {
+        "id": "G0025",
+        "name": "APT17"
+    },
+    {
+        "id": "G0036",
+        "name": "GCMAN"
+    },
+    {
+        "id": "G0030",
+        "name": "Lotus Blossom"
+    },
+    {
+        "id": "G1012",
+        "name": "CURIUM"
+    },
+    {
+        "id": "G0015",
+        "name": "Taidoor"
+    },
+    {
+        "id": "G0063",
+        "name": "BlackOasis"
+    },
+    {
+        "id": "G0055",
+        "name": "NEODYMIUM"
+    },
+    {
+        "id": "G0042",
+        "name": "MONSOON"
+    },
+    {
+        "id": "G0057",
+        "name": "APT34"
+    }
+]

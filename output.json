@@ -1,0 +1,71 @@
+{
+    "summary": "The text mentions the use of several MITRE ATT&CK tactics and techniques including \"Adversary in the Middle\" (T1021), \"Bootkit\" (T1016 and T1003), \"System Owner/User Discovery\" (G0137), and \"Sudo and Sudo Caching\" (T1560.003). These tactics and techniques are associated with threat groups such as Kimsuky, Platinum, and APT3. The text also includes the use of a unique attack pattern identified as G0010. Overall, the paragraph suggests that the adversary is using various tactics and techniques to gain access to system owner and user information.",
+    "ttps": [
+        {
+            "id": "T1003",
+            "name": "OS Credential Dumping"
+        },
+        {
+            "id": "T1016",
+            "name": "System Network Configuration Discovery"
+        },
+        {
+            "id": "T1021.005",
+            "name": "VNC"
+        },
+        {
+            "id": "T1033",
+            "name": "System Owner/User Discovery"
+        },
+        {
+            "id": "T1067",
+            "name": "Bootkit"
+        },
+        {
+            "id": "T1169",
+            "name": "Sudo"
+        },
+        {
+            "id": "T1206",
+            "name": "Sudo Caching"
+        },
+        {
+            "id": "T1542.003",
+            "name": "Bootkit"
+        },
+        {
+            "id": "T1548.003",
+            "name": "Sudo and Sudo Caching"
+        },
+        {
+            "id": "T1557",
+            "name": "Adversary-in-the-Middle"
+        },
+        {
+            "id": "T1560.003",
+            "name": "Archive via Custom Method"
+        }
+    ],
+    "groups": [
+        {
+            "id": "G0010",
+            "name": "Turla"
+        },
+        {
+            "id": "G0022",
+            "name": "APT3"
+        },
+        {
+            "id": "G0068",
+            "name": "PLATINUM"
+        },
+        {
+            "id": "G0094",
+            "name": "Kimsuky"
+        },
+        {
+            "id": "G0137",
+            "name": "Ferocious Kitten"
+        }
+    ]
+}

@@ -3,7 +3,7 @@
 The goal is to create a program that extracts from published research; Tactics, Techniques, and Procedures (TTPs) that Advanced Persistent Threats (APTs) use to attack their victims. Understanding the Tactics, Techniques, and Procedures used by APTs is crucial for effective cybersecurity. Knowledge of APT TTPs aids in incident response, risk assessment, and mitigation, enabling organizations to strengthen their defenses and patch vulnerabilities. Understanding APT TTPs enhances the ability for professionals to detect, prevent, and respond to APT attacks, safeguarding assets and sensitive information. Sharing this information fosters collaboration among cybersecurity professionals and helps predict future attack trends.
 
 ## *-SETUP-*
-* *Create* venv then pip install -r requirements.txt for packages/dependencies needed ie *transformers, openai and pyattck*.
+* *Create* venv, clone the repo, then pip install -r requirements.txt for packages/dependencies needed ie *transformers, openai and pyattck*.
 * *Run* the MITRE_update.py file to generate/update dataset with current MITRE ATTCK framework.
 * *Insert* openai api key before running main program. 
 

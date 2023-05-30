@@ -9,12 +9,12 @@ attack = Attck()
 actor_data = []
 technique_data = []
 
-# Iterate over actors and collect data
+# Iterate over actors and collect the data
 for actor in attack.enterprise.actors:
     actor_entry = {"id": actor.external_references[0].external_id, "name": actor.name}
     actor_data.append(actor_entry)
 
-# Iterate over techniques and collect data
+# Iterate over techniques and collect the data
 for technique in attack.enterprise.techniques:
     tid = next(
         (ref.external_id for ref in technique.external_references if ref.external_id),
